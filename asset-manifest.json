@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rutiay.github.io/csb-d4d71s/static/css/main.7da0b100.chunk.css",
+    "main.js": "https://rutiay.github.io/csb-d4d71s/static/js/main.264f50cd.chunk.js",
+    "main.js.map": "https://rutiay.github.io/csb-d4d71s/static/js/main.264f50cd.chunk.js.map",
+    "runtime-main.js": "https://rutiay.github.io/csb-d4d71s/static/js/runtime-main.7dd66278.js",
+    "runtime-main.js.map": "https://rutiay.github.io/csb-d4d71s/static/js/runtime-main.7dd66278.js.map",
+    "static/js/2.268be66b.chunk.js": "https://rutiay.github.io/csb-d4d71s/static/js/2.268be66b.chunk.js",
+    "static/js/2.268be66b.chunk.js.map": "https://rutiay.github.io/csb-d4d71s/static/js/2.268be66b.chunk.js.map",
+    "index.html": "https://rutiay.github.io/csb-d4d71s/index.html",
+    "static/css/main.7da0b100.chunk.css.map": "https://rutiay.github.io/csb-d4d71s/static/css/main.7da0b100.chunk.css.map",
+    "static/js/2.268be66b.chunk.js.LICENSE.txt": "https://rutiay.github.io/csb-d4d71s/static/js/2.268be66b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dd66278.js",
+    "static/js/2.268be66b.chunk.js",
+    "static/css/main.7da0b100.chunk.css",
+    "static/js/main.264f50cd.chunk.js"
+  ]
+}
